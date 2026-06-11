@@ -1,0 +1,6 @@
+name,price,in_stock
+Laptop,45000.0,True
+Mouse,1200.0,True
+Keyboard,0.0,False
+HDMI Cable,500.0,True
+Headphones,0.0,True
