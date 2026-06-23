@@ -13,6 +13,13 @@
             "name": "Manish_MySQL",
             "username": "root",
             "database": "mysql"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Inventory_DB",
+            "database": "inventory_system.db"
         }
-    ]
+    ],
+    "sqltools.useNodeRuntime": true
 }
