@@ -1,0 +1,8 @@
+transaction_id,account_id,amount,transaction_type,status
+TX1001,ACC_8821,1500.00,deposit,SUCCESS
+TX1002,ACC_3112,-45.50,withdrawal,SUCCESS
+TX1003,,50000.00,transfer,PENDING
+TX1004,ACC_4491,250.00,  withdrawal  ,SUCCESS
+TX1005,ACC_8821,12000.00,deposit,FAILED
+TX1001,ACC_8821,1500.00,deposit,SUCCESS
+TX1006,ACC_9912,85000.00,transfer,SUCCESS
