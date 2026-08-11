@@ -1,0 +1,12 @@
+2026-08-11 11:08:35 | INFO     | Logging engine initialized successfully.
+2026-08-11 11:08:35 | INFO     | Starting pipeline execution...
+2026-08-11 11:08:35 | INFO     | Database tables initialized or confirmed existing.
+2026-08-11 11:08:35 | INFO     | Pipeline base verification complete.
+2026-08-11 11:10:20 | INFO     | Logging engine initialized successfully.
+2026-08-11 11:10:20 | INFO     | Starting Market & Expense Pipeline...
+2026-08-11 11:10:20 | INFO     | Database tables initialized or confirmed existing.
+2026-08-11 11:10:20 | INFO     | Attempting to fetch market prices from CoinGecko API...
+2026-08-11 11:10:20 | INFO     | Successfully fetched raw market data from API.
+2026-08-11 11:10:21 | INFO     | Successfully committed 3 market records to database.
+2026-08-11 11:10:21 | INFO     | Expense logged successfully: Server Hosting - $15.5
+2026-08-11 11:10:21 | INFO     | Pipeline execution completed successfully.
